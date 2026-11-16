@@ -1,0 +1,2 @@
+Scenario,Train_Period,Test_Period,Train_Rows,Test_Rows,K,Year_Holdout_ARI,Year_Holdout_NMI,Test_Silhouette,Pct_Above_Train_P95_Dist
+B_Without_Rainfall,1997-2015,2016-2019,15341,4223,5,0.7306,0.7098,0.5696,18.68

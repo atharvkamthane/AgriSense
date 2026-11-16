@@ -1,0 +1,6 @@
+Cluster,Segment_Name,Rows,Share_Percent,Top_Crops,Top_States,Top_Seasons,Area,Production,Annual_Rainfall,Fertilizer_per_ha,Pesticide_per_ha,Fertilizer_to_Pesticide_ratio,Yield
+0,Typical Rainfall | Low Fertilizer | Typical Pesticide,7235,36.98,"Rice, Maize, Groundnut","Karnataka, Andhra Pradesh, West Bengal","Kharif, Rabi, Whole Year",12996.0,16805.0,1248.1,102.13,0.25,393.0741,0.9542
+1,Typical Rainfall | Typical Fertilizer | Low Pesticide,844,4.31,"Rice, Maize, Urad","Karnataka, West Bengal, Andhra Pradesh","Kharif, Rabi, Whole Year",9201.5,14330.0,1199.8,143.04,0.09,1589.3333,1.0227
+2,Typical Rainfall | High Fertilizer | Low Pesticide,2544,13.0,"Rice, Maize, Urad","Karnataka, West Bengal, Andhra Pradesh","Kharif, Rabi, Whole Year",8835.5,13431.5,1297.0,155.82,0.17,833.75,1.0
+3,Typical Rainfall | High Fertilizer | High Pesticide,3947,20.17,"Rice, Maize, Sesamum","Andhra Pradesh, Nagaland, Karnataka",Kharif,6678.0,8120.0,1217.7,157.44,0.33,464.2162,1.0
+4,Typical Rainfall | High Fertilizer | High Pesticide,4994,25.53,"Rice, Wheat, Potato","Karnataka, Andhra Pradesh, Tamil Nadu","Rabi, Whole Year, Summer",7008.0,13857.0,1247.6,157.44,0.33,464.2162,1.3454

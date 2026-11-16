@@ -1,0 +1,16 @@
+Cluster,Segment_Name,Area,Recommendation
+0,Typical Rainfall | Low Fertilizer | Typical Pesticide,Fertilization,Check soil-test results and crop nutrient symptoms before adjusting inputs; use a balanced nutrient plan based on local agronomic guidance.
+0,Typical Rainfall | Low Fertilizer | Typical Pesticide,Irrigation,Use rainfall together with field soil-moisture checks and crop growth stage to adjust irrigation scheduling.
+0,Typical Rainfall | Low Fertilizer | Typical Pesticide,Pest Management,"Continue regular pest scouting, conserve beneficial insects and avoid calendar-based or prophylactic spraying when pest thresholds are not reached."
+1,Typical Rainfall | Typical Fertilizer | Low Pesticide,Fertilization,Maintain field-level nutrient records and follow crop- and soil-specific fertilizer recommendations; reassess after soil testing.
+1,Typical Rainfall | Typical Fertilizer | Low Pesticide,Irrigation,Use rainfall together with field soil-moisture checks and crop growth stage to adjust irrigation scheduling.
+1,Typical Rainfall | Typical Fertilizer | Low Pesticide,Pest Management,"Continue regular pest scouting, conserve beneficial insects and avoid calendar-based or prophylactic spraying when pest thresholds are not reached."
+2,Typical Rainfall | High Fertilizer | Low Pesticide,Fertilization,Review nutrient application against soil-test results and crop requirements; consider split applications at suitable growth stages and avoid blanket application.
+2,Typical Rainfall | High Fertilizer | Low Pesticide,Irrigation,Use rainfall together with field soil-moisture checks and crop growth stage to adjust irrigation scheduling.
+2,Typical Rainfall | High Fertilizer | Low Pesticide,Pest Management,"Continue regular pest scouting, conserve beneficial insects and avoid calendar-based or prophylactic spraying when pest thresholds are not reached."
+3,Typical Rainfall | High Fertilizer | High Pesticide,Fertilization,Review nutrient application against soil-test results and crop requirements; consider split applications at suitable growth stages and avoid blanket application.
+3,Typical Rainfall | High Fertilizer | High Pesticide,Irrigation,Use rainfall together with field soil-moisture checks and crop growth stage to adjust irrigation scheduling.
+3,Typical Rainfall | High Fertilizer | High Pesticide,Pest Management,"Increase pest scouting and use integrated pest management: cultural, mechanical and biological controls first; apply only locally registered products when monitoring and economic thresholds justify it, following the label and local expert advice."
+4,Typical Rainfall | High Fertilizer | High Pesticide,Fertilization,Review nutrient application against soil-test results and crop requirements; consider split applications at suitable growth stages and avoid blanket application.
+4,Typical Rainfall | High Fertilizer | High Pesticide,Irrigation,Use rainfall together with field soil-moisture checks and crop growth stage to adjust irrigation scheduling.
+4,Typical Rainfall | High Fertilizer | High Pesticide,Pest Management,"Increase pest scouting and use integrated pest management: cultural, mechanical and biological controls first; apply only locally registered products when monitoring and economic thresholds justify it, following the label and local expert advice."

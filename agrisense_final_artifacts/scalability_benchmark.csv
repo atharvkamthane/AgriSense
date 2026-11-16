@@ -1,0 +1,4 @@
+Benchmark,Rows,Seconds,Throughput_Rows_Per_Sec,Data_Type
+MiniBatchKMeans.fit on actual aggregate rows,19564,0.1951,100265.1,Actual aggregated dataset (1997-2019)
+MiniBatchKMeans.partial_fit on actual aggregate rows,19564,0.1283,152517.6,Actual aggregated dataset (1997-2019)
+MiniBatchKMeans.partial_fit on 100K resampled rows,100000,0.0548,1825807.1,Synthetic computational load test

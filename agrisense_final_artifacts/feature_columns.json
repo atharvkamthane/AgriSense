@@ -1,0 +1,34 @@
+{
+  "scenario": "B_Without_Rainfall",
+  "features": [
+    "Fertilizer_per_ha",
+    "Pesticide_per_ha",
+    "Fertilizer_to_Pesticide_ratio",
+    "Season_Kharif",
+    "Season_Rabi",
+    "Season_Summer",
+    "Season_Whole Year",
+    "WaterDemand_High",
+    "WaterDemand_Low",
+    "WaterDemand_Medium"
+  ],
+  "excluded_from_clustering": [
+    "Area_log",
+    "Production_log",
+    "Rainfall_state_z",
+    "Yield",
+    "LogYield",
+    "Yield_rel"
+  ],
+  "fit_years": "1997-2019",
+  "k": 5,
+  "ratio_median": 464.21621621621625,
+  "cluster_names": {
+    "0": "Typical Rainfall | Low Fertilizer | Typical Pesticide",
+    "1": "Typical Rainfall | Typical Fertilizer | Low Pesticide",
+    "2": "Typical Rainfall | High Fertilizer | Low Pesticide",
+    "3": "Typical Rainfall | High Fertilizer | High Pesticide",
+    "4": "Typical Rainfall | High Fertilizer | High Pesticide"
+  },
+  "note": "Rainfall is retained for profile/recommendation context but excluded from clustering in B_Without_Rainfall."
+}

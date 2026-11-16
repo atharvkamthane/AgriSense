@@ -1,0 +1,4 @@
+Season,Year_Pairs,Mean_ARI,Mean_NMI,Minimum_ARI,Mean_Matched_Units
+Kharif,22,1.0,1.0,1.0,343.3182
+Rabi,22,1.0,1.0,1.0,239.9545
+Summer,22,1.0,1.0,1.0,46.3182

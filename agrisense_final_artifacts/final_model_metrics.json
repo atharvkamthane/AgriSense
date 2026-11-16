@@ -1,0 +1,23 @@
+{
+  "feature_scenario": "B_Without_Rainfall",
+  "k": 5,
+  "training_years": "1997-2019",
+  "training_rows": 19564,
+  "held_out_2020_rows": 37,
+  "silhouette": 0.3161913919916463,
+  "davies_bouldin": 1.0961159398973976,
+  "inertia": 22142.124555241073,
+  "features": [
+    "Fertilizer_per_ha",
+    "Pesticide_per_ha",
+    "Fertilizer_to_Pesticide_ratio",
+    "Season_Kharif",
+    "Season_Rabi",
+    "Season_Summer",
+    "Season_Whole Year",
+    "WaterDemand_High",
+    "WaterDemand_Low",
+    "WaterDemand_Medium"
+  ],
+  "ratio_median": 464.21621621621625
+}
